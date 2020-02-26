@@ -1,50 +1,34 @@
 {
   "project_info": {
-    "project_number": "625451713692",
-    "firebase_url": "https://rastreador-de-chollos.firebaseio.com",
-    "project_id": "rastreador-de-chollos",
-    "storage_bucket": "rastreador-de-chollos.appspot.com"
+    "project_number": "200518851314",
+    "firebase_url": "https://diario-tecnologia-89a39.firebaseio.com",
+    "project_id": "diario-tecnologia-89a39",
+    "storage_bucket": "diario-tecnologia-89a39.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:625451713692:android:9c343b5da769ecbfcad959",
+        "mobilesdk_app_id": "1:200518851314:android:6860906f2a7e16d9044e6b",
         "android_client_info": {
-          "package_name": "com.jca.rastreadordechollos"
+          "package_name": "com.jca.diariotecnologiaapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "625451713692-l8gkknieg0dbbf0dbe6ju9b3qtagdi7q.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.jca.rastreadordechollos",
-            "certificate_hash": "f7b6d5ce54d03e50c104b6cceeda08176960e2a8"
-          }
-        },
-        {
-          "client_id": "625451713692-8ehiffu5d7on6t93dr0fon77hilei2i7.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.jca.rastreadordechollos",
-            "certificate_hash": "6ac624d13d51d230c702cbc32aae98199dc8904c"
-          }
-        },
-        {
-          "client_id": "625451713692-3gnngona9cibdekn0p61limbmhivuufb.apps.googleusercontent.com",
+          "client_id": "200518851314-u7f57o2mufl6urq0jb1kn596thkas5gg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB4LmR_cp7tEwu9wIXWtzt0-TE3UGEC0Os"
+          "current_key": "AIzaSyDrpvrct5UGUVlUJ0I4w9rWx7L_pl4uw5A"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "625451713692-3gnngona9cibdekn0p61limbmhivuufb.apps.googleusercontent.com",
+              "client_id": "200518851314-u7f57o2mufl6urq0jb1kn596thkas5gg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

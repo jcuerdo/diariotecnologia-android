@@ -9,11 +9,11 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.0"
     defaultConfig {
-        applicationId "com.jca.rastreadordechollos"
+        applicationId "com.jca.diariotecnologiaapp"
         minSdkVersion 16
         targetSdkVersion 29
-        versionCode 20
-        versionName "0.0.20"
+        versionCode 17
+        versionName "0.0.17"
         multiDexEnabled true //Add this
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true

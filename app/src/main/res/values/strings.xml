@@ -1,17 +1,17 @@
 <resources>
-    <string name="app_name">Rastreador de chollos</string>
+    <string name="app_name">Diario Tecnología</string>
     <string name="action_quit">Salir</string>
-    <string name="title_activity_post">Detalles del chollo</string>
+    <string name="title_activity_post">Detalles de la noticia</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="goPost">Ir al chollo</string>
+    <string name="goPost">Artículo original</string>
     <string name="share">Compartir</string>
     <string name="details">Detalles</string>
     <string name="load_more">Cargar más</string>
     <string name="adsense_app_id">ca-app-pub-6904186947817626~6314277082</string>
-    <string name="adsense_interstitial">ca-app-pub-6904186947817626/3814932797</string>
-    <string name="baseUrl">https://www.rastreadordechollos.com/</string>
-    <string name="error_loading_posts">Error cargando chollos</string>
+    <string name="adsense_interstitial">ca-app-pub-6904186947817626/4310930274</string>
+    <string name="baseUrl">https://www.diariotecnologia.es/</string>
+    <string name="error_loading_posts">Error cargando noticias</string>
 
 </resources>
